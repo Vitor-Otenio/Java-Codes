@@ -6,7 +6,17 @@
 /*
 Fazer um programa que receba o salário de funcionário e, usando os dados a sehuir, 
 calcule e mostre o novo Salário.
+
+FAIXA SALARIAL     % DE AUMENTO
+
+Até R$ 300              50%
+R$ 300 > R$ 500         40%
+R$ 500 > R$ 700         30%
+R$ 700 > R$ 800         20%
+R$ 800 > R$ 1.000       10%
+Acima de R$ 1.000        5%
 */
+
 package source_package;
     import java.util.Scanner;
 /**
